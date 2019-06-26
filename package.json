@@ -1,0 +1,25 @@
+{
+  "name": "postgraphile-relay-federation",
+  "version": "1.0.0",
+  "description": "Enable GraphQL federation the Postgraphile generated schema for all types conforming to the Relay `Node` interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebekebe/postgraphile-relay-federation.git"
+  },
+  "keywords": [
+    "Postgraphile",
+    "GraphQL",
+    "Federation",
+    "Relay"
+  ],
+  "author": "Benjamin Karran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ebekebe/postgraphile-relay-federation/issues"
+  },
+  "homepage": "https://github.com/ebekebe/postgraphile-relay-federation#readme"
+}
