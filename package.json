@@ -1,8 +1,8 @@
 {
-  "name": "postgraphile-relay-federation",
-  "version": "1.0.0",
+  "name": "@ebekebe/postgraphile-relay-federation",
+  "version": "1.0.1",
   "description": "Enable GraphQL federation the Postgraphile generated schema for all types conforming to the Relay `Node` interface",
-  "main": "index.js",
+  "main": "lib.js",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js",
